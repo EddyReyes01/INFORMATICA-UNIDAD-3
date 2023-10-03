@@ -60,7 +60,8 @@ Objetivo: Aprender a instalar varios sistemas operativos como un máquinas virtu
 Parte 1. Investigue qué es la virtualización, una máquina virtual y cómo se instala un sistema operativo en una máquina virtual. ![image](https://github.com/EddyReyes01/informatica.1.1/assets/142960502/4da861ed-ee3e-4137-bb60-e9ea994070ff)
 
 
-Parte 2. Instale VirtualBox en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo Fedora Workstation como una máquina virtual (Video 1). Finalmente, instale el VirtualBox Extension Pack.x
+Parte 2. Instale VirtualBox en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo Fedora Workstation como una máquina virtual (Video 1). Finalmente, instale el VirtualBox Extension Pack.x ![image](https://github.com/EddyReyes01/INFORMATICA-UNIDAD-3/assets/142960502/20450671-d650-4286-aeb4-165ab8211559)
+
 
 Parte 3. Utilice los archivos ISO de Windows 7 y Fedora Workstation e instálelos mediante VirtualBox (Video).
 
